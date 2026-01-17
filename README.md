@@ -1,6 +1,8 @@
-# programmers-oop
-프로그래머스 '실무 자바 개발을 위한 OOP와 핵심 디자인 패턴' 강의의 예제 레포지토리입니다.
+# 실무 자바 개발을 위한 OOP와 핵심 디자인 패턴
 
-강의에서 사용된 소스코드는 다음 링크에 있습니다.
+<br/><br/><br/>
 
-영상별 소스코드들 : https://github.com/lleellee0/programmers-oop/tree/main/src/main/java/kr/co/programmersoop/example
+<h2>1. 자바와 객체지향<h2/>
+    <a href="https://stbhg5.tistory.com/765">객체지향적으로 개발해야하는 이유</a><br/>
+    <a href=""></a><br/>
+    <br/>
