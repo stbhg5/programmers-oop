@@ -11,5 +11,7 @@ public class InterfaceExampleMain {
 //        아래 코드는 실행불가
 //        someInterface.anotherMethod();
 //        anotherInterface.someMethod();
+
+        someInterface.defaultMethod();
     }
 }
