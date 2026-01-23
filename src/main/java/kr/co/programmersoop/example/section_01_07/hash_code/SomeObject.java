@@ -27,9 +27,9 @@ public class SomeObject {
         return intField == that.intField && Objects.equals(stringField, that.stringField);
     }
 
-//    hashCode가 오버라이딩 되고 안되고의 차이
-//    @Override
-//    public int hashCode() {
-//        return Objects.hash(intField, stringField);
-//    }
+    // hashCode가 오버라이딩 되고 안되고의 차이
+    @Override
+    public int hashCode() {
+        return Objects.hash(intField, stringField);
+    }
 }
