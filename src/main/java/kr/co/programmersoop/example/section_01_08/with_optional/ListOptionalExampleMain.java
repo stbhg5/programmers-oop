@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ListOptionalExampleMain {
+
     public static void main(String[] args) {
         List<Integer> list = new ArrayList<>();
 
@@ -12,6 +13,7 @@ public class ListOptionalExampleMain {
         list.add(3);
         list.add(4);
         list.add(5);
+        // list.add(100);
 
         Integer filteredInteger = list.stream()
                 .filter(value -> value.equals(100))
@@ -22,4 +24,5 @@ public class ListOptionalExampleMain {
 
         System.out.println(filteredInteger);
     }
+
 }

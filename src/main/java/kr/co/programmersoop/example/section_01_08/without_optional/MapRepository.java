@@ -14,4 +14,5 @@ public class MapRepository {
     public String getValue(String key) {
         return map.get(key);
     }
+
 }

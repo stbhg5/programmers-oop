@@ -6,7 +6,11 @@ public class SimpleNpeExampleMain {
 
         System.out.println("string=" + string);
 
-        System.out.println(string.toUpperCase());
+        // System.out.println(string.toUpperCase());
+        
+        // null 체크
+        if (string != null)
+            System.out.println(string.toUpperCase());
     }
 
     private static String getNullString() {
