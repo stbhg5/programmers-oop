@@ -10,5 +10,6 @@
     <a href="https://stbhg5.tistory.com/777">예외</a><br/>
     <a href="https://stbhg5.tistory.com/779">Object 클래스</a><br/>
     <a href="https://stbhg5.tistory.com/783">Optional</a><br/>
+    <a href="https://stbhg5.tistory.com/785">if문 제거하기</a><br/>
     <a href=""></a><br/>
     <br/>
