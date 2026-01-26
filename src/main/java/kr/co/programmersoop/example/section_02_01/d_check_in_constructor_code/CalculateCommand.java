@@ -1,16 +1,18 @@
 package kr.co.programmersoop.example.section_02_01.d_check_in_constructor_code;
 
 public class CalculateCommand {
+
     private CalculateType calculateType;
     private int num1;
     private int num2;
 
     public CalculateCommand(CalculateType calculateType, int num1, int num2) {
-        if(calculateType == null) {
+        // RuntimeException : CalculateCommand 인스턴스 생성 자체를 실패했다는 것을 명시적으로 호출한 쪽에 알려주기 위함
+        if (calculateType == null) {
             throw new RuntimeException("CalculateType은 필수 값 입니다.");
         }
 
-        if(calculateType.equals(CalculateType.DIVIDE) && num2 == 0) {
+        if (calculateType.equals(CalculateType.DIVIDE) && num2 == 0) {
             throw new RuntimeException("0으로 나눌 수 없습니다.");
         }
 
@@ -30,4 +32,5 @@ public class CalculateCommand {
     public int getNum2() {
         return num2;
     }
+
 }
