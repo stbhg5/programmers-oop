@@ -13,7 +13,7 @@
     <a href="https://stbhg5.tistory.com/785">if문 제거하기</a><br/>
     <a href="https://stbhg5.tistory.com/787">getter와 setter</a><br/>
     <a href="https://stbhg5.tistory.com/789">stream API</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/791">stream API와 Optional</a><br/>
     <br/>
 
 <h2><h2/>
