@@ -18,5 +18,6 @@
 
 <h2>2. 객체지향의 핵심 원리와 원칙들<h2/>
     <a href="https://stbhg5.tistory.com/793">의존 관계</a><br/>
+    <a href="https://stbhg5.tistory.com/795">의존 역전</a><br/>
     <a href=""></a><br/>
     <br/>
