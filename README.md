@@ -20,5 +20,6 @@
     <a href="https://stbhg5.tistory.com/793">의존 관계</a><br/>
     <a href="https://stbhg5.tistory.com/795">의존 역전</a><br/>
     <a href="https://stbhg5.tistory.com/797">의존 주입 패턴</a><br/>
+    <a href="https://stbhg5.tistory.com/798">의존성을 주입 해주는 주체</a><br/>
     <a href=""></a><br/>
     <br/>
