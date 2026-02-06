@@ -23,5 +23,6 @@
     <a href="https://stbhg5.tistory.com/798">의존성을 주입 해주는 주체</a><br/>
     <a href="https://stbhg5.tistory.com/801">SOLID</a><br/>
     <a href="https://stbhg5.tistory.com/805">SRP, 단일 책임 원칙</a><br/>
+    <a href="https://stbhg5.tistory.com/809">OCP, 개방-폐쇄 원칙</a><br/>
     <a href=""></a><br/>
     <br/>
