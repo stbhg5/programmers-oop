@@ -24,5 +24,6 @@
     <a href="https://stbhg5.tistory.com/801">SOLID</a><br/>
     <a href="https://stbhg5.tistory.com/805">SRP, 단일 책임 원칙</a><br/>
     <a href="https://stbhg5.tistory.com/809">OCP, 개방-폐쇄 원칙</a><br/>
+    <a href="https://stbhg5.tistory.com/812">LSP, 리스코프 치환 원칙</a><br/>
     <a href=""></a><br/>
     <br/>
