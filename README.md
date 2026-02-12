@@ -28,3 +28,8 @@
     <a href="https://stbhg5.tistory.com/817">ISP, 인터페이스 분리 원칙</a><br/>
     <a href="https://stbhg5.tistory.com/819">DIP, 의존 역전 원칙</a><br/>
     <br/>
+
+<h2>3. 자주 사용되는 디자인 패턴<h2/>
+    <a href="https://stbhg5.tistory.com/823">디자인 패턴</a><br/>
+    <a href=""></a><br/>
+    <br/>
