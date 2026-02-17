@@ -34,5 +34,6 @@
     <a href="https://stbhg5.tistory.com/825">어댑터 패턴</a><br/>
     <a href="https://stbhg5.tistory.com/826">퍼사드 패턴</a><br/>
     <a href="https://stbhg5.tistory.com/828">전략 패턴</a><br/>
+    <a href="https://stbhg5.tistory.com/831">싱글턴 패턴</a><br/>
     <a href=""></a><br/>
     <br/>
