@@ -36,5 +36,5 @@
     <a href="https://stbhg5.tistory.com/828">전략 패턴</a><br/>
     <a href="https://stbhg5.tistory.com/831">싱글턴 패턴</a><br/>
     <a href="https://stbhg5.tistory.com/833">옵저버 패턴</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/835">프록시 패턴</a><br/>
     <br/>
